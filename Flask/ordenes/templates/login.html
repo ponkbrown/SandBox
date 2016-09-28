@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Ingresar</title>
+</head>
+<body>
+	<div class='container'>
+		<h1>Ingresa</h1>
+		<br>
+		<form action='/' method='post'>
+			<input type="text" placeholder='Usuario' name='usuario' value="{{request.form.username }}" >
+			<input type="password" placeholder="Password" value="{{ request.form.password }}">
+			<input class="btn btn-default" type="submit" value="Login">
+		</form>
+	</div>
+</body>
+</html>

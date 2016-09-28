@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+h1 {
+    text-align: center;
+    margin: 100px auto;
+    color: #e3e3e3;
+    font-family: sans-serif;}
+#txt_mensaje {
+    color:red;
+    border: 1px dotted black;
+}
+    </style>
+    <title>MensajesEvents</title>
+</head>
+<body>
+    <h1>Mensaje: <span id='txt_mensaje'>xxxxxx</span></h1>
+
+<script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
+
+<script>
+$(document).ready(function(){
+
+function actualizaMensaje(mensaje){
+    document.getElementById('txt_mensaje').innerHTML = mensaje;
+    }
+
+
+// Programamos el sent event de el switch
+var switchSource = new EventSource("http://localhost:5000/_switch");
+switchSource.onmessage = function(e) {
+    actualizaMensaje(e.data);
+}
+
+
+// Aqui empieza el switch con el primer valor que manda flask
+actualizaMensaje({{ mensaje }});
+});
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,555 @@
+{
+  "labelAnnotations": [
+    {
+      "mid": "/m/06zsq",
+      "description": "Sign",
+      "score": 61
+    },
+    {
+      "mid": "/m/011s0",
+      "description": "Advertising",
+      "score": 56
+    },
+    {
+      "mid": "/m/0bkqqh",
+      "description": "Signage",
+      "score": 56
+    }
+  ],
+  "textAnnotations": [
+    {
+      "locale": "es",
+      "description": "COMPRA\n1150\n18.13\nTEL 312-0592\nCEL 681 123-8799\nNXTL 42 15 551632\nMEJORAMOS TIPO DE CAMBIO\n",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 151,
+            "y": 3
+          },
+          {
+            "x": 642,
+            "y": 3
+          },
+          {
+            "x": 642,
+            "y": 833
+          },
+          {
+            "x": 151,
+            "y": 833
+          }
+        ]
+      }
+    },
+    {
+      "description": "COMPRA",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 151,
+            "y": 3
+          },
+          {
+            "x": 642,
+            "y": 3
+          },
+          {
+            "x": 642,
+            "y": 114
+          },
+          {
+            "x": 151,
+            "y": 114
+          }
+        ]
+      }
+    },
+    {
+      "description": "1150",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 183,
+            "y": 147
+          },
+          {
+            "x": 604,
+            "y": 147
+          },
+          {
+            "x": 604,
+            "y": 366
+          },
+          {
+            "x": 183,
+            "y": 366
+          }
+        ]
+      }
+    },
+    {
+      "description": "18.13",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 202,
+            "y": 534
+          },
+          {
+            "x": 552,
+            "y": 534
+          },
+          {
+            "x": 552,
+            "y": 696
+          },
+          {
+            "x": 202,
+            "y": 696
+          }
+        ]
+      }
+    },
+    {
+      "description": "TEL",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 279,
+            "y": 693
+          },
+          {
+            "x": 322,
+            "y": 695
+          },
+          {
+            "x": 321,
+            "y": 718
+          },
+          {
+            "x": 278,
+            "y": 716
+          }
+        ]
+      }
+    },
+    {
+      "description": "312-0592",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 334,
+            "y": 695
+          },
+          {
+            "x": 466,
+            "y": 701
+          },
+          {
+            "x": 465,
+            "y": 724
+          },
+          {
+            "x": 333,
+            "y": 718
+          }
+        ]
+      }
+    },
+    {
+      "description": "CEL",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 260,
+            "y": 715
+          },
+          {
+            "x": 301,
+            "y": 717
+          },
+          {
+            "x": 300,
+            "y": 740
+          },
+          {
+            "x": 259,
+            "y": 738
+          }
+        ]
+      }
+    },
+    {
+      "description": "681",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 315,
+            "y": 717
+          },
+          {
+            "x": 358,
+            "y": 719
+          },
+          {
+            "x": 357,
+            "y": 742
+          },
+          {
+            "x": 314,
+            "y": 740
+          }
+        ]
+      }
+    },
+    {
+      "description": "123-8799",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 371,
+            "y": 720
+          },
+          {
+            "x": 487,
+            "y": 725
+          },
+          {
+            "x": 486,
+            "y": 748
+          },
+          {
+            "x": 370,
+            "y": 743
+          }
+        ]
+      }
+    },
+    {
+      "description": "NXTL",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 241,
+            "y": 738
+          },
+          {
+            "x": 308,
+            "y": 741
+          },
+          {
+            "x": 307,
+            "y": 769
+          },
+          {
+            "x": 240,
+            "y": 766
+          }
+        ]
+      }
+    },
+    {
+      "description": "42",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 314,
+            "y": 741
+          },
+          {
+            "x": 347,
+            "y": 742
+          },
+          {
+            "x": 346,
+            "y": 770
+          },
+          {
+            "x": 313,
+            "y": 769
+          }
+        ]
+      }
+    },
+    {
+      "description": "15",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 364,
+            "y": 744
+          },
+          {
+            "x": 394,
+            "y": 745
+          },
+          {
+            "x": 393,
+            "y": 773
+          },
+          {
+            "x": 363,
+            "y": 772
+          }
+        ]
+      }
+    },
+    {
+      "description": "551632",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 409,
+            "y": 746
+          },
+          {
+            "x": 503,
+            "y": 750
+          },
+          {
+            "x": 502,
+            "y": 778
+          },
+          {
+            "x": 408,
+            "y": 774
+          }
+        ]
+      }
+    },
+    {
+      "description": "MEJORAMOS",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 195,
+            "y": 768
+          },
+          {
+            "x": 376,
+            "y": 776
+          },
+          {
+            "x": 375,
+            "y": 805
+          },
+          {
+            "x": 194,
+            "y": 797
+          }
+        ]
+      }
+    },
+    {
+      "description": "TIPO",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 257,
+            "y": 802
+          },
+          {
+            "x": 321,
+            "y": 802
+          },
+          {
+            "x": 321,
+            "y": 833
+          },
+          {
+            "x": 257,
+            "y": 833
+          }
+        ]
+      }
+    },
+    {
+      "description": "DE",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 332,
+            "y": 802
+          },
+          {
+            "x": 367,
+            "y": 802
+          },
+          {
+            "x": 367,
+            "y": 833
+          },
+          {
+            "x": 332,
+            "y": 833
+          }
+        ]
+      }
+    },
+    {
+      "description": "CAMBIO",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 374,
+            "y": 802
+          },
+          {
+            "x": 487,
+            "y": 802
+          },
+          {
+            "x": 487,
+            "y": 833
+          },
+          {
+            "x": 374,
+            "y": 833
+          }
+        ]
+      }
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "UNLIKELY",
+    "violence": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 150,
+            "green": 106,
+            "blue": 117
+          },
+          "score": 0.15385959,
+          "pixelFraction": 0.096991152,
+          "percent": 17.42500436396388,
+          "percentRounded": 17,
+          "rgb": "150, 106, 117",
+          "hex": "966A75"
+        },
+        {
+          "color": {
+            "red": 166,
+            "green": 163,
+            "blue": 187
+          },
+          "score": 0.028759502,
+          "pixelFraction": 0.044011798,
+          "percent": 3.257089453152891,
+          "percentRounded": 3,
+          "rgb": "166, 163, 187",
+          "hex": "A6A3BB"
+        },
+        {
+          "color": {
+            "red": 161,
+            "green": 102,
+            "blue": 93
+          },
+          "score": 0.14564668,
+          "pixelFraction": 0.019705014,
+          "percent": 16.49487064535172,
+          "percentRounded": 16,
+          "rgb": "161, 102, 93",
+          "hex": "A1665D"
+        },
+        {
+          "color": {
+            "red": 120,
+            "green": 75,
+            "blue": 86
+          },
+          "score": 0.13902515,
+          "pixelFraction": 0.074808262,
+          "percent": 15.744964908919442,
+          "percentRounded": 16,
+          "rgb": "120, 75, 86",
+          "hex": "784B56"
+        },
+        {
+          "color": {
+            "red": 133,
+            "green": 68,
+            "blue": 81
+          },
+          "score": 0.13455267,
+          "pixelFraction": 0.022831859,
+          "percent": 15.238444752991947,
+          "percentRounded": 15,
+          "rgb": "133, 68, 81",
+          "hex": "854451"
+        },
+        {
+          "color": {
+            "red": 169,
+            "green": 99,
+            "blue": 90
+          },
+          "score": 0.11474261,
+          "pixelFraction": 0.012212389,
+          "percent": 12.994903210015089,
+          "percentRounded": 13,
+          "rgb": "169, 99, 90",
+          "hex": "A9635A"
+        },
+        {
+          "color": {
+            "red": 184,
+            "green": 142,
+            "blue": 154
+          },
+          "score": 0.10674657,
+          "pixelFraction": 0.065250739,
+          "percent": 12.089330590885988,
+          "percentRounded": 12,
+          "rgb": "184, 142, 154",
+          "hex": "B88E9A"
+        },
+        {
+          "color": {
+            "red": 139,
+            "green": 70,
+            "blue": 71
+          },
+          "score": 0.023919763,
+          "pixelFraction": 0.0041297935,
+          "percent": 2.708976246849363,
+          "percentRounded": 3,
+          "rgb": "139, 70, 71",
+          "hex": "8B4647"
+        },
+        {
+          "color": {
+            "red": 156,
+            "green": 93,
+            "blue": 107
+          },
+          "score": 0.018211151,
+          "pixelFraction": 0.004778761,
+          "percent": 2.062460881689631,
+          "percentRounded": 2,
+          "rgb": "156, 93, 107",
+          "hex": "9C5D6B"
+        },
+        {
+          "color": {
+            "red": 173,
+            "green": 157,
+            "blue": 183
+          },
+          "score": 0.017517958,
+          "pixelFraction": 0.015162242,
+          "percent": 1.9839549461800592,
+          "percentRounded": 2,
+          "rgb": "173, 157, 183",
+          "hex": "AD9DB7"
+        }
+      ]
+    }
+  }
+}
