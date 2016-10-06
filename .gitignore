@@ -91,4 +91,4 @@ env/
 .ropeproject
 
 # Vim swap files
-# *.swp
+*.swp
